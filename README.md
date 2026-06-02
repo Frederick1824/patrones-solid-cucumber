@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Federico Montoro
-- Lauty
+- Lautaro Rivieri
 
 ---
 
